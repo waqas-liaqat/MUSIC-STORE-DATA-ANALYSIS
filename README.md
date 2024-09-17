@@ -41,3 +41,5 @@ Throughout the development of this project, I have sought inspiration from a piv
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 Feel free to explore the SQL queries and results in the repository! If you have any questions or feedback, feel free to reach out.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasliaqat630@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-waqas-liaqat/)
