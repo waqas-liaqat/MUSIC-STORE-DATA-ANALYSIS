@@ -29,17 +29,6 @@ In this project, I answered various business-related questions grouped into thre
 - **PostgreSQL**: To run SQL queries and perform analysis.
 - **SQL**: For querying, filtering, aggregating, and analyzing the data.
 
-## 📊 Dataset Description
-The dataset includes information about:
-- **Customers**: Customer demographic details and location.
-- **Invoices**: Sales data related to customer purchases.
-- **Tracks**: Information about the songs in the store, including their genre and length.
-- **Artists**: Data about the artists who produced the tracks.
-
-## 📁 Folder Structure
-- `SQL Queries`: Contains all the SQL queries used to answer the business questions.
-- `Presentation document`: Includes query results or any exported data related to the analysis.
-
 ## 🏆 Key Takeaways
 This project highlights:
 - My ability to write efficient SQL queries to solve real-world business problems.
